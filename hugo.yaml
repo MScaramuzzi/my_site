@@ -2,3 +2,8 @@ baseURL: "https://mscaramuzzi.github.io/my_site/"
 locale: en-us
 title: My New Hugo Project
 theme: ["PaperMod"]
+params:
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: light # to switch between dark or light according to browser theme
+  ShowCodeCopyButtons: true
