@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>http://localhost:1313/my_site/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/my_site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/my_site/docs/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my_site/docs/test/</guid>
+      <description>&lt;h1 id=&#34;quae-tamen&#34;&gt;Quae tamen&lt;/h1&gt;
+&lt;h2 id=&#34;monstro-desierat-crescere&#34;&gt;Monstro Desierat crescere&lt;/h2&gt;
+&lt;p&gt;Lorem markdownum solebam pinum nexilibusque marmore mittere; usum figis fera
+venio iaces clarum. Pulveris te corpore, nec diu, nostrae.&lt;/p&gt;
+&lt;h2 id=&#34;verbis-dum-aurem&#34;&gt;Verbis dum aurem&lt;/h2&gt;
+&lt;p&gt;Curva qui amo sua &lt;em&gt;frondibus&lt;/em&gt; poterit locus Pergama; se. Nec humumque concipit
+pedibusque memor, per Theti; impetus cum. Genus restitit venit murmure
+&lt;strong&gt;aegra&lt;/strong&gt;, in dixit templa quid dies rota? Lina pugnaeque quinque terga.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;gnuBurnMethod&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;vrml&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;joystickT&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;scroll&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;queueGibibyteUnfriend&lt;/span&gt;), &lt;span style=&#34;color:#a6e22e&#34;&gt;nameAnd&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;mail&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ae81ff&#34;&gt;57&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;memory_gigaflops&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;displayBetaSmishing&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;sdsl&lt;/span&gt;)));
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;toolbar&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;card_terabyte_antivirus&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pseudocodeWpaControl&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#a6e22e&#34;&gt;socketMegapixelManagement&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;laptop_lun_lock&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;array&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;box&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;316833&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;web_soft&lt;/span&gt;), &lt;span style=&#34;color:#a6e22e&#34;&gt;lagProtocol&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;website&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;graphic&lt;/span&gt;(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#a6e22e&#34;&gt;uddi_bar_volume&lt;/span&gt;))) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;graphicsEKilobit&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;session_imap&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;digitalAccess&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;link_title&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;newbie_base&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;direct_token&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;banner_station&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+=&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#a6e22e&#34;&gt;zone_microphone&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;trackbackMasterFlowchart&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;flowchart&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;media_gate&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#a6e22e&#34;&gt;addressCache&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;bluetooth&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;bios_cpm_page&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;snapshot_string_nvram&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#a6e22e&#34;&gt;gigahertz_google_basic&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;} &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;key_memory_port&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ethernet&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;dial_noc_stack&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;real&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lun_namespace&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;file_jumper&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;dial&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;tftp_ajax_cpu&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;namespaceVaporware&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;installBootError&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;intelligence_remote_user&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;association_parse_firewall&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;surgeExecutableDelete&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#a6e22e&#34;&gt;jsp_linkedin&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;friend&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;service&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;ibmWireless&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;adapterDbmsHard&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ddrProcess&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;} &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;terabyte&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;parere-precor-inquit-sed&#34;&gt;Parere precor inquit sed&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Cupido melior carinae&lt;/em&gt; ad quae nymphae pronaque, aberant sua. Falsa tonitruque
+aestus echidnae, os viscera liceatque &lt;em&gt;trahatur heros&lt;/em&gt;. Fissus ingrediens orbi,
+tua augurio ancora, et sui! Me non, utiliter lustrantem ab sanguine femineo
+poscimus curvantem &lt;code&gt;systemInfotainment&lt;/code&gt; additur longus pulcherrime dum exuere
+rate.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
