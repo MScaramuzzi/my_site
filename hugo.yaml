@@ -1,7 +1,7 @@
 baseURL: "https://mscaramuzzi.github.io/my_site/"
 locale: en-us
 title: My New Hugo Project
-theme: ["PaperMod"]
+theme: ["hugo-catppuccino1"]
 params:
   # defaultTheme: light
   # defaultTheme: dark
