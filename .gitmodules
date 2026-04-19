@@ -1,3 +1,9 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/themes/hugo-catppuccino1"]
+	path = themes/themes/hugo-catppuccino1
+	url = https://gitlab.com/Romanizer/hugo-catppuccino
+[submodule "themes/hugo-catppuccino1"]
+	path = themes/hugo-catppuccino1
+	url = https://gitlab.com/Romanizer/hugo-catppuccino
